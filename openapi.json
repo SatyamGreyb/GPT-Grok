@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://gpt-grok--yourusername.repl.co"
+      "url": "https://gpt-grok.onrender.com"
     }
   ],
   "paths": {
